@@ -1,18 +1,18 @@
-#include <stdio.h>
-main() {
-  int a = 5;
+// #include <stdio.h>
+// main() {
+//   int a = 5;
 
-  if (a > 3) {
-    printf("A\n");
-  } else
-    printf("B\n");
-  printf("C\n");
+//   if (a > 3) {
+//     printf("A\n");
+//   } else
+//     printf("B\n");
+//   printf("C\n");
 
-  if (a > 8)
-    prntf("D/n");
+//   if (a > 8)
+//     prntf("D/n");
 
-  else
-    printf("E\n");
+//   else
+//     printf("E\n");
 
-  printf("F\n");
-}
+//   printf("F\n");
+// }
